@@ -2,6 +2,6 @@ function index() {
     console.log("I love Cats")
 }
 
-Function index() {
+function index() {
 console.log("I love Dogs too")
 }
